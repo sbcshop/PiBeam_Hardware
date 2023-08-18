@@ -12,6 +12,7 @@
   * [ArdiPi](https://shop.sb-components.co.uk/collections/latest-collections/products/ardipi-uno-r3-alternative-board-based-on-pico-w) - Arduino Uno form factor variants based on Raspberry Pi Pico W
   * [3.2" Touchsy Pico W](https://shop.sb-components.co.uk/collections/pre-order/products/touchsy-3-2-touch-lcd-display-based-on-pico-w) - 3.2" Touchsy Pico W with Resistive and Capacitive version.
   * [1.14” LCD HAT](https://shop.sb-components.co.uk/products/1-14-lcd-hat-for-pico) - 1.14” LCD HAT for Pico is a 1.14-inch display expansion board module of 240×135 resolution.
+  * [1.14” LCD breakout](https://shop.sb-components.co.uk/products/1-14-inch-lcd-breakout) - The 1.14” LCD breakout is colorful and easy to experiment with graphics.
 
 ## Product License
 
