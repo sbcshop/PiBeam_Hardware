@@ -1,5 +1,7 @@
 # PiBeam_Hardware
 
+<img src="https://cdn.shopify.com/s/files/1/1217/2104/files/image_9.png?v=1693984168">
+
 PiBeam is a DIY USB transceiver device that can be programmed to control and manage your computer, gaming console, or multimedia system.
 This github provides hardware design files of PiBeam.
 
